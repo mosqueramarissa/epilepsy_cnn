@@ -6,7 +6,7 @@ Sistema de identificación de crisis epilépticas (Ictal) y predicción temprana
 2. Arquitectura del modelo
 3. Preprocesamiento de datos
 
-#Descripción del proyecto
+# Descripción del proyecto
 A diferencia de los métodos clásicos que dependen de la extracción manual de características, este enfoque utiliza Deep Learning para aprender patrones complejos directamente de la representación Tiempo-Frecuencia de la señal.
 
 El sistema aborda dos tareas críticas:
